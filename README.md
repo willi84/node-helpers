@@ -12,7 +12,10 @@ base installation setup is optimized for WSL with puppeteer (I like it hard)
 install the dependencies
 ``` npm i ```
 
-run test watcher
+run test once
+```npm run test```
+
+run test watcher (needs  changages to run)
 ```npm run test:watch```
 
 ## components
